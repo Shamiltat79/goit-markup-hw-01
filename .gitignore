@@ -102,3 +102,9 @@ dist
 
 # TernJS port file
 .tern-port
+*.svg
+*.svg
+images/img.svg
+images/img2.svg
+*.svg
+*.svg
